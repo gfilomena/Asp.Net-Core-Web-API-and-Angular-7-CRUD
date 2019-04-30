@@ -24,7 +24,6 @@ import { PaymentDetailService } from './shared/payment-detail.service';
     HttpClientModule,
     BrowserAnimationsModule,
     ToastrModule.forRoot()
-  ],
   providers: [PaymentDetailService],
   bootstrap: [AppComponent]
 })
