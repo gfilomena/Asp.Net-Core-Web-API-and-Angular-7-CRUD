@@ -31,4 +31,7 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 
-*.dll
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj/Debug
+*/**/obj/Release
